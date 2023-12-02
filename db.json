@@ -1,5 +1,4 @@
-{
-  "pokemons": [
+{"pokemons": [
   {
     "abilities": [
       "Overgrow"
@@ -28,6 +27,54 @@
   },
   {
     "abilities": [
+      "Static"
+    ],
+    "detailPageURL": "/us/pokedex/pikachu",
+    "weight": 13.2,
+    "weakness": [
+      "Ground"
+    ],
+    "number": "0025",
+    "height": 16.0,
+    "collectibles_slug": "pikachu",
+    "featured": "true",
+    "slug": "pikachu",
+    "name": "Pikachu",
+    "ThumbnailAltText": "Pikachu",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+    "id": 25,
+    "type": [
+      "electric"
+    ]
+  },
+  {
+    "abilities": [
+      "Surge Surfer"
+    ],
+    "detailPageURL": "/us/pokedex/raichu",
+    "weight": 46.3,
+    "weakness": [
+      "Ghost",
+      "Dark",
+      "Bug",
+      "Ground"
+    ],
+    "number": "0026",
+    "height": 28.0,
+    "collectibles_slug": "raichu",
+    "featured": "true",
+    "slug": "raichu",
+    "name": "Raichu",
+    "ThumbnailAltText": "Raichu",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png",
+    "id": 26,
+    "type": [
+      "electric",
+      "psychic"
+    ]
+  },
+  {
+    "abilities": [
       "Overgrow"
     ],
     "detailPageURL": "/us/pokedex/ivysaur",
@@ -47,58 +94,6 @@
     "ThumbnailAltText": "Ivysaur",
     "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png",
     "id": 2,
-    "type": [
-      "grass",
-      "poison"
-    ]
-  },
-  {
-    "abilities": [
-      "Overgrow"
-    ],
-    "detailPageURL": "/us/pokedex/venusaur",
-    "weight": 9999.0,
-    "weakness": [
-      "Fire",
-      "Psychic",
-      "Flying",
-      "Ice"
-    ],
-    "number": "0003",
-    "height": 945.0,
-    "collectibles_slug": "venusaur",
-    "featured": "true",
-    "slug": "venusaur",
-    "name": "Venusaur",
-    "ThumbnailAltText": "Venusaur",
-    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png",
-    "id": 3,
-    "type": [
-      "grass",
-      "poison"
-    ]
-  },
-  {
-    "abilities": [
-      "Thick Fat"
-    ],
-    "detailPageURL": "/us/pokedex/venusaur",
-    "weight": 342.8,
-    "weakness": [
-      "Fire",
-      "Psychic",
-      "Flying",
-      "Ice"
-    ],
-    "number": "0003",
-    "height": 94.0,
-    "collectibles_slug": "venusaur",
-    "featured": "true",
-    "slug": "venusaur",
-    "name": "Venusaur",
-    "ThumbnailAltText": "Venusaur",
-    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png",
-    "id": 3,
     "type": [
       "grass",
       "poison"
@@ -183,81 +178,6 @@
       "Blaze"
     ],
     "detailPageURL": "/us/pokedex/charizard",
-    "weight": 9999.0,
-    "weakness": [
-      "Water",
-      "Electric",
-      "Rock"
-    ],
-    "number": "0006",
-    "height": 1102.0,
-    "collectibles_slug": "charizard",
-    "featured": "true",
-    "slug": "charizard",
-    "name": "Charizard",
-    "ThumbnailAltText": "Charizard",
-    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
-    "id": 6,
-    "type": [
-      "fire",
-      "flying"
-    ]
-  },
-  {
-    "abilities": [
-      "Drought"
-    ],
-    "detailPageURL": "/us/pokedex/charizard",
-    "weight": 221.6,
-    "weakness": [
-      "Water",
-      "Electric",
-      "Rock"
-    ],
-    "number": "0006",
-    "height": 67.0,
-    "collectibles_slug": "charizard",
-    "featured": "true",
-    "slug": "charizard",
-    "name": "Charizard",
-    "ThumbnailAltText": "Charizard",
-    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
-    "id": 6,
-    "type": [
-      "fire",
-      "flying"
-    ]
-  },
-  {
-    "abilities": [
-      "Tough Claws"
-    ],
-    "detailPageURL": "/us/pokedex/charizard",
-    "weight": 243.6,
-    "weakness": [
-      "Ground",
-      "Rock",
-      "Dragon"
-    ],
-    "number": "0006",
-    "height": 67.0,
-    "collectibles_slug": "charizard",
-    "featured": "true",
-    "slug": "charizard",
-    "name": "Charizard",
-    "ThumbnailAltText": "Charizard",
-    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
-    "id": 6,
-    "type": [
-      "fire",
-      "dragon"
-    ]
-  },
-  {
-    "abilities": [
-      "Blaze"
-    ],
-    "detailPageURL": "/us/pokedex/charizard",
     "weight": 199.5,
     "weakness": [
       "Water",
@@ -320,52 +240,6 @@
     "ThumbnailAltText": "Wartortle",
     "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png",
     "id": 8,
-    "type": [
-      "water"
-    ]
-  },
-  {
-    "abilities": [
-      "Torrent"
-    ],
-    "detailPageURL": "/us/pokedex/blastoise",
-    "weight": 9999.0,
-    "weakness": [
-      "Grass",
-      "Electric"
-    ],
-    "number": "0009",
-    "height": 984.0,
-    "collectibles_slug": "blastoise",
-    "featured": "true",
-    "slug": "blastoise",
-    "name": "Blastoise",
-    "ThumbnailAltText": "Blastoise",
-    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png",
-    "id": 9,
-    "type": [
-      "water"
-    ]
-  },
-  {
-    "abilities": [
-      "Mega Launcher"
-    ],
-    "detailPageURL": "/us/pokedex/blastoise",
-    "weight": 222.9,
-    "weakness": [
-      "Grass",
-      "Electric"
-    ],
-    "number": "0009",
-    "height": 63.0,
-    "collectibles_slug": "blastoise",
-    "featured": "true",
-    "slug": "blastoise",
-    "name": "Blastoise",
-    "ThumbnailAltText": "Blastoise",
-    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png",
-    "id": 9,
     "type": [
       "water"
     ]
@@ -440,5 +314,137 @@
     "type": [
       "bug"
     ]
+  },
+  {
+    "abilities": [
+      "Compound Eyes"
+    ],
+    "detailPageURL": "/us/pokedex/butterfree",
+    "weight": 70.5,
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "number": "0012",
+    "height": 43.0,
+    "collectibles_slug": "butterfree",
+    "featured": "true",
+    "slug": "butterfree",
+    "name": "Butterfree",
+    "ThumbnailAltText": "Butterfree",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png",
+    "id": 12,
+    "type": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "abilities": [
+      "Shield Dust"
+    ],
+    "detailPageURL": "/us/pokedex/weedle",
+    "weight": 7.1,
+    "weakness": [
+      "Fire",
+      "Psychic",
+      "Flying",
+      "Rock"
+    ],
+    "number": "0013",
+    "height": 12.0,
+    "collectibles_slug": "weedle",
+    "featured": "true",
+    "slug": "weedle",
+    "name": "Weedle",
+    "ThumbnailAltText": "Weedle",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png",
+    "id": 13,
+    "type": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "abilities": [
+      "Shed Skin"
+    ],
+    "detailPageURL": "/us/pokedex/kakuna",
+    "weight": 22.0,
+    "weakness": [
+      "Fire",
+      "Psychic",
+      "Flying",
+      "Rock"
+    ],
+    "number": "0014",
+    "height": 24.0,
+    "collectibles_slug": "kakuna",
+    "featured": "true",
+    "slug": "kakuna",
+    "name": "Kakuna",
+    "ThumbnailAltText": "Kakuna",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/014.png",
+    "id": 14,
+    "type": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "abilities": [
+      "Swarm"
+    ],
+    "detailPageURL": "/us/pokedex/beedrill",
+    "weight": 65.0,
+    "weakness": [
+      "Fire",
+      "Psychic",
+      "Flying",
+      "Rock"
+    ],
+    "number": "0015",
+    "height": 39.0,
+    "collectibles_slug": "beedrill",
+    "featured": "true",
+    "slug": "beedrill",
+    "name": "Beedrill",
+    "ThumbnailAltText": "Beedrill",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png",
+    "id": 15,
+    "type": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "abilities": [
+      "Keen Eye",
+      "Tangled Feet"
+    ],
+    "detailPageURL": "/us/pokedex/pidgey",
+    "weight": 4.0,
+    "weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "number": "0016",
+    "height": 12.0,
+    "collectibles_slug": "pidgey",
+    "featured": "true",
+    "slug": "pidgey",
+    "name": "Pidgey",
+    "ThumbnailAltText": "Pidgey",
+    "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png",
+    "id": 16,
+    "type": [
+      "normal",
+      "flying"
+    ]
   }
-]}
+]
+}
